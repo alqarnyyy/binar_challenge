@@ -1,0 +1,21 @@
+.filter-section {
+  display: flex;
+}
+
+.label {
+  position: absolute;
+  width: 1047px;
+  height: 106px;
+}
+
+.btn-sewa {
+  background-color: #5cb85f;
+  padding: 10px 35px;
+  border-radius: 5px;
+  border-color: transparent;
+  color: #fff;
+  font-weight: 640;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  width: 100%;
+}

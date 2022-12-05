@@ -1,0 +1,131 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* HomePage */
+.header {
+    background: #F1F3FF;
+}
+
+/* .header-1 {
+    padding-bottom: 80px;
+} */
+
+.header  .header-1 .navbar{
+    background: #F1F3FF;
+}
+
+.sewa .container .row .col-lg-12 {
+    background-color: #0d29a5;
+    height: 310px;
+    width: 1115px;
+    border-radius: 13px;
+}
+
+
+
+/* CariMobil */
+.header-cari .container-fluid {
+    background: #F1F3FF;
+}
+
+.header-cari .header-1 .navbar {
+    background: #F1F3FF;
+    
+}
+
+.header-2 {
+    padding-left: 65px;
+    
+}
+
+.cari {
+    position: absolute;
+    width: 1047px;
+    height: 106px;
+    left: 196px;
+    top: 415px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}
+
+.cari .col .btn {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+
+/* HasilPencarian */
+.header-hasil .header-1 .navbar {
+    background: #F1F3FF;
+    
+}
+
+.header-hasil .container-fluid {
+    width: 1440px;
+    height: 270px;
+    background: #F1F3FF;
+}
+
+.hasil-pencarian  {
+    position: absolute;
+    width: 1047px;
+    height: 142px;
+    left: 196px;
+    top: 195px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}
+
+
+/* DetailMobil */
+.header-detail .header-1 .navbar {
+    background: #F1F3FF;
+    
+}
+
+.header-detail .container-fluid {
+    width: 1440px;
+    height: 266px; 
+    background: #F1F3FF; 
+}
+
+.detail-pencarian {
+    position: absolute;
+    width: 1047px;
+    height: 142px;
+    left: 196px;
+    top: 195px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}
+
+
+
+
+
+
+/* Footer */
+.footer .container .row .col-lg-3 a{
+    display: block;
+    color:var(--light-color);
+    padding:1rem 0;
+    text-decoration: none;
+}
+
+.footer .container .row .col-lg-3 a i{
+    color:var(--green);
+    padding-right: .5rem;
+    list-style: none;
+    
+}
+
+.footer .container .row .col-lg-3 a:hover i{
+    padding-right: 2rem;
+}
